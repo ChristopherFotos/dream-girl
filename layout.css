@@ -1,0 +1,252 @@
+
+h1, h3 {
+	font-family: 'Oswald', sans-serif;
+}
+
+.content{
+	background-color: white;
+	padding-bottom: 139px;
+	border: 2px solid black;
+}
+
+.sidebar{
+	background-color: rgb(255,255,255); 
+	font-family: 'Oswald', sans-serif;
+	font-size: 45px;
+	color: black;
+	padding-left: 0px;
+	padding-right: 0px;
+
+	rgba(177,0,17,.3)
+
+
+}
+
+
+.navbar-top{
+	background-color: #;
+	padding-bottom: 12px;
+	text-align: center;
+	padding-top: 8px;
+	font-family: 'Oswald', sans-serif;
+	color: black;
+	border-right: 2px solid black;
+
+	
+}
+
+#main {
+	font-family: 'Oswald', sans-serif;
+	font-size: 50px;	
+	text-align: center;
+	color: white;
+	background-color: black;
+	margin-bottom:0px;
+	background-image: src"01.jpg"
+}
+
+.final{
+	border-bottom: 2px solid gray;
+	padding-bottom: 15px;
+}
+
+.navbar-top:hover{
+	background-color: white;
+	transition-duration: 0.85s;
+	font-famil;
+	font-size: 20px;
+	padding-bottom: 40px;
+	color: white;
+
+
+}
+
+.navparent {
+	background-color: white;
+}
+
+#nav1:hover {
+	background-color: white;
+	transition-duration: 0.85s;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-color: black;
+	color: white;
+}
+
+#nav2:hover {
+	background-color: white;
+	transition-duration: 0.85s;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-color: black;
+	color: white;
+}
+
+#nav3:hover {
+	background-color: white;
+	transition-duration: 0.85s;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-color: black;
+	color: white;
+}
+
+#nav4:hover {
+	background-color: white;
+	transition-duration: 0.85s;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-color: black;
+	color: white;
+}
+
+#nav5:hover {
+	background-color: white;
+	transition-duration: 0.85s;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-color: black;
+	color: white;
+}
+
+#nav6:hover {
+	background-color: white;
+	transition-duration: 0.85s;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-color: black;
+	color:white;
+}
+
+#nav7:hover {
+	background-color: white;
+	transition-duration: 0.85s;
+	background-size: contain;
+	background-repeat: no-repeat;
+	color: black;
+	background-color: black;
+	color: white;
+}
+
+#nav8:hover {
+	background-color: white;
+	transition-duration: 0.85s;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-color: black;
+	color: white;
+}
+
+#nav9:hover {
+	background-color: white;
+	transition-duration: 0.85s;
+	background-color: black;
+	color: ;
+}
+
+#nav10:hover {
+	background-color: white;
+	transition-duration: 0.85s;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-color: black;
+	color:white;
+}
+
+#nav11:hover {
+	background-color: white;
+	transition-duration: 0.85s;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-color: black;
+	color: white;
+}
+
+#nav12:hover {
+	background-color: white;
+	transition-duration: 0.85s;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-color: black;
+	color: white;	
+}
+
+
+.sbcont {
+	background-image: url(04.jpg);
+	width: 100px;
+	border-bottom: 2px solid black;
+
+}
+
+.sbitem {
+	background-color: rgb(255,255,255);
+	margin-bottom: 0px;
+	padding-bottom: 50px
+	border-bottom: 2px solid black;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+}
+
+.sbitem:hover {
+	background-color: black;
+	color: white;
+	font-size: 45px;
+	transition-duration: 0.8s;
+}
+
+.sbi1 {
+	background-color: rgb(255,255,255);
+	border-bottom: 2px solid black;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+
+}
+
+a:hover {
+    text-decoration: none;
+
+}
+
+.navtext:hover {
+	
+}
+
+.sbtitle {
+	background-color: rgb(106,0,10);
+	font-family: 'Oswald', sans-serif;
+	font-size: 50px;
+	color: white;
+
+}
+
+.nav-top-link {
+	color: black;
+}
+
+.nav-top-link:hover {
+	color: white;
+}
+
+.sideborders{
+	border-bottom: 2px solid black;
+}
+
+.nevtext{
+	margin-right: 4px;
+}
+
+.sideground{
+background-color: rgba(106,0,10,.12);	
+}
+
+.sidegroundtext{
+	font-size: 40px;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+
+}
